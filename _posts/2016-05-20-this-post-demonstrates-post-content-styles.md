@@ -3,7 +3,7 @@ layout: page
 title: "天天学习"
 subtitle: "国将兴，必贵师而重傅"
 date:   2016-05-20 21:21:21 +0530
-categories: junk
+categories: 还可以
 author: "Bart Simpson"
 meta: "Springfield"
 ---
