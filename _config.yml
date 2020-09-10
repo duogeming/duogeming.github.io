@@ -1,7 +1,7 @@
 # Site settings
 title: 王铎铭博客
 description: >
-  没有所谓失败，除非你不再尝试。
+    没有所谓失败，除非你不再尝试。
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://duogeming.github.io" # the base hostname & protocol for your site
