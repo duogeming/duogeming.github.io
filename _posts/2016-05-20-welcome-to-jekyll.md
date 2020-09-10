@@ -1,25 +1,23 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
-subtitle: "A minimal Jekyll theme"
+title:  "文化文学 "
+subtitle: "多看阅读"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+几十年前，地球还是一个气候温和，树木苍翠，万物生长的美丽星球。而在经济发展迅速的今天，人类为了满足自己的需要，滥砍滥伐。现在的我们拥有比过去任何时候都要好的生活，但也面临着比过去任何时候都要严重的生态和环境问题：全球变暖，臭氧层破坏，生物多样性减少，酸雨蔓延，森林锐减，土地荒漠化，大气污染水污染。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+当天空不再蔚蓝，河流不再清澈，当森林倒下，当动物灭亡，人类不为所动。他们不断兴建工厂，向地球母亲源源不断地排放污染物，终于有一天，她承受不住伤害和破坏对我们发怒了。于是气候变异，水土流失，温室效应，512地震，森林火灾、特大洪灾等接踵而至。这是咆哮，是控诉，也是警告。可是似乎只有我们被大自然的威力逼得离开世代居住的家园的时候，我们才会意识到自己的错误。
+
 
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+敬畏自然是你穷极一生都要遵守的规律
+#=> 洪灾后的反思
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+因此人类必须要构筑尊崇自然、绿色发展的生态体系。自古以来，中华民族就明白，人类可以利用自然、改造自然，但归根结底我们是自然的一部分，必须呵护自然，不能凌驾于自然之上。
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

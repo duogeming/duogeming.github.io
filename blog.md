@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 帅哥
+subtitle: 你是不是帅哥
 ---
 
 <div>

@@ -1,13 +1,25 @@
 ---
 layout: page
-title:  "Some articles are just so long they deserve a really long title to see if things will break well"
-subtitle: "A shorter explanation of stuff"
+title:  "C语言的特点"
+subtitle: "C语言的特点可概括如下"
 date:   2016-05-20 21:21:21 +0530
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+1）简洁、紧凑、灵活。C语言的核心内容很少，只有32个关键字，9种控制语句；程序书写格式自由，压缩了一切不必要的成分。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+（2）表达方式简练、实用。C语言有一套强有力的运算符，达44种，可以构造出多种形式的表达式，用一个表达式就可以实现其他语言可能需要多条语句才能实现的功能。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+（3）数据类型丰富。数据类型越多，数据的表达能力就越强。C语言具有多种数据类型，如字符型、整型、实型、数组、指针、结构体和共用体等，可以实现诸如链表、栈、队列、树等各种复杂的数据结构。其中的指针类型使得参数的传递简单并且迅速，同时节省内存空间。
+
+（4）具有低级语言的特点。C语言具有与汇编语言相近的功能和描述方法，如地址运算和二进制数位运算等，还可以对硬件端口等资源进行直接操作，充分使用计算机的资源。C语言既具有高级语言便于学习和掌握的特点，又具有机器语言或汇编语言对硬件的操作能力。因此，C语言既可以作为系统描述语言，又可以作为通用的程序设计语言。
+
+（5）C语言是一种结构化语言，适合于大型程序的模块化设计。C语言提供了编写结构化程序的基本控制语句，如if-else语句、switch语句、while语句和do-while语句等。C语言是函数的集合，函数是构成C语言程序的基本单位，每个函数具有独立的功能，函数之间通过参数传递数据。程序员可以编写自己的函数。同时，不同操作系统的编译器都为程序员提供了大量的标准库函数，如输入/输出函数、数学函数和字符串处理函数等。灵活地使用标准库函数可以简化程序设计，提高编写程序效率。
+
+（6）各种版本的编译器都提供了预处理命令和预处理程序。预处理扩展了C语言的功能，提高了程序的可移植性，为大型程序的调试提供了方便。
+
+（7）可移植性好。程序从一个环境不经改动或稍加改动就可以移植到另一个完全不同的环境中运行。这是因为标准库函数和预处理程序将可能出现的与机器有关的因素与源程序分割开来，使得针对不同的计算机硬件环境，可以重新定义有关的内容。
+
+（8）生成的目标代码质量高。由C源程序编译和链接得到的目标代码的运行效率比用汇编语言编写的也不过只低10%~20%，可充分发挥机器的效率。
+
+（9）C语言语法限制不严，程序设计自由度大。C语言程序在运行时不做诸如数组下标越界和变量类型兼容性等检查，而是由编程者自己保证程序的正确性。C语言几乎允许所有的数据类型的转换，字符型和整型可以自由混合使用，所有类型均可作逻辑型，可自己定义新的类型，还可以把某类型强制转换为指定的类型。实际上，这使编程者有了更大的自主性，能编写出灵活、优质的程序，同时也给初学者增加了一定的难度。所以，只有在熟练掌握C语言程序设计之后，才能体会到其灵活性。

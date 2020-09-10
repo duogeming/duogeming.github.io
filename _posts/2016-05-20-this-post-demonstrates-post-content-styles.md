@@ -1,109 +1,37 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
-subtitle: "This is a subtitle"
+title: "天天学习"
+subtitle: "国将兴，必贵师而重傅"
 date:   2016-05-20 21:21:21 +0530
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+“希望广大教师不忘立德树人初心，牢记为党育人、为国育才使命，积极探索新时代教育教学方法，不断提升教书育人本领，为培养德智体美劳全面发展的社会主义建设者和接班人作出新的更大贡献。”在第三十六个教师节到来之际，习近平总书记代表党中央，向全国广大教师和教育工作者致以节日的祝贺和诚挚的慰问。
 
 ## Some great heading (h2)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+“百年大计，教育为本。教育大计，教师为本。”长期以来，我国广大教师认真贯彻党的教育方针，辛勤耕耘、无私奉献，用爱心、知识、智慧点亮学生心灵，为党和人民培养了一批又一批优秀人才，为我国教育事业发展、为国家发展和民族振兴作出了突出贡献。正如习近平总书记所言：“今天的学生就是未来实现中华民族伟大复兴中国梦的主力军，广大教师就是打造这支中华民族‘梦之队’的筑梦人。”
 
 ## Another great heading (h2)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
+党的十八大以来，以习近平同志为核心的党中央高度重视教育工作，坚持把优先发展教育事业作为推动党和国家各项事业发展的重要先手棋。2014年9月9日，习近平总书记在同北京师范大学师生代表座谈讲话中，引用荀子的“国将兴，必贵师而重傅；贵师而重傅，则法度存”，强调教育对国家繁荣、民族振兴的重要意义。
 
 
 
-## Headings are cool! (h2)
+### 释义 (h3)
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+在先秦诸子中,荀子最为提倡尊师重教。《荀子》首篇即为《劝学》，体现了对于教育的重视。荀子认识到“师”在道德教化中的重要作用，将其上升为与“天地君亲”并列的高度。《荀子·礼论》称：“礼有三本：天地者,生之本也；先祖者,类之本也；君师者,治之本也。”
 
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+《荀子·大略》更是把教师地位提高到攸关国家兴亡的高度：“国将兴,必贵师而重傅；贵师而重傅,则法度存。”意思是，国家将要兴盛，一定尊敬老师并看重有技能的人；如此，规矩和制度就能保持并得以推行。反之，国家将要衰微，一定鄙视老师并看轻有技能的人，如此人们就产生放肆之心；人有了放肆之心，规矩和制度就会被破坏。这一观点在中国思想史上产生了十分深远的影响。
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+### 解读 (h3)
 
-### Tables
+“教育兴则国家兴，教育强则国家强。”党的十八大以来，习近平总书记高度重视教师队伍建设，深情牵挂着耕耘于三尺讲台的全国1700多万名教师，在不同场合多次强调发展教育的重要意义，对教育工作提出了一系列富有创见的新理念新思想新观点，为教育强国建设指明了方向——
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit  
+> 让教师成为让人羡慕的职业
+
+2018年9月10日，全国教育大会在北京召开。习近平总书记强调，建设社会主义现代化强国，对教师队伍建设提出新的更高要求，也对全党全社会尊师重教提出新的更高要求。
 
 
-With uneven columns
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur

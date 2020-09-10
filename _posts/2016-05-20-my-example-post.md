@@ -1,16 +1,16 @@
 ---
 layout: page
-title:  "Sample"
-subtitle: "A longer explanation of stuff"
+title:  "罗带娣作品"
+subtitle: "土地情结"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+春风又绿田野，大地苍茫，山村着色，树林竹影，如入画卷，隐没在濛濛烟色里。乡间小路旁，开满了不知名的小花儿。引来蝴蝶蜜蜂，翩翩起舞，孩子们撒着欢，追逐着，在草丛花间中奔跑，嬉戏。屋檐下的一群小燕子，叽叽喳喳地，衔泥筑新巢，庭前院后，一片繁华热闹的景象。
 
 {% comment %}
 Might you have an include in your theme? Why not try it here!
 {% include my-themes-great-include.html %}
 {% endcomment %}
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+一场新雨淋漓后，土壤松软，泥土溢香。老农，村妇展开久违的笑容，忙着荷锄头，下田地，开始春耕播种，种瓜，点豆，育苗，撒下农家小日子里，平淡又幸福的希望。他们牵着老黄牛，扛起犁铧，早出晚归地赶着节气，种下各种各样的农作物。然后，适时浇水，施肥，锄草，精心呵护着，等待收获的季节。
