@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "天天学习"
-subtitle: "国将兴，必贵师而重傅"
+title: "国将兴，必贵师而重傅天天学习"
+subtitle: "天天学习"
 date:   2016-05-20 21:21:21 +0530
-categories: 还可以
+categories: 学习类
 author: "Bart Simpson"
 meta: "Springfield"
 ---
