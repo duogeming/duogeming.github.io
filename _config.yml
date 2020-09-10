@@ -1,7 +1,7 @@
 # Site settings
-title: xianmu  #Pudhina
+title: 王铎铭博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  没有所谓失败，除非你不再尝试。
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://duogeming.github.io" # the base hostname & protocol for your site
@@ -9,7 +9,6 @@ url: "https://duogeming.github.io" # the base hostname & protocol for your site
 author:
   fullname: duomingge
   github: github
-  #linkedin: linkedin
   email: 1939754651@qq.com
 
 
