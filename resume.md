@@ -27,7 +27,7 @@ subtitle: REWLWE
  
 1．熟悉掌握SQL Server 的使用,能够编写简单的SQL语句,实现数据的增、删、改、查;
 
-2. 熟悉web、C++,Java
+2．熟悉web、C++,Java
 
 ### 自我评价
 
