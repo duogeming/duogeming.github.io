@@ -37,20 +37,19 @@ categories: ['Web基础知识']
 
  - 数据类型
  - 默认值--undefined
- - bool
+ - boolean
  - Number
  - String
  - Array
   - `声明一个数组: var a = ["元素","不同的元素用逗号相隔"]`;
   - `遍历数组: for(var i=0; i<arr.length; i++) { }`
   - `取数据: a[0] key值`
-
  - Object (var a = {a:10; b:function() { }}) 值可以是任意类型
   - 声明对象: `var obj = {a: 10; b: function(){ }, c: "asdsa"}`
-  - for (var i in obj) {}  用in
-  99
-  - obj.a
+  - `for (var i in obj) {}`  用in
+  - `obj.a`
  - Function
+  - `function( ) { }`
 
 ```html
 
